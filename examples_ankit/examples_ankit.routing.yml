@@ -1,0 +1,7 @@
+examples_ankit.form:
+ path: '/examples_ankit/exampleform'
+ defaults:
+   _title: 'Example form'
+   _form: '\Drupal\examples_ankit\Form\ExampleForm'
+ requirements:
+   _permission: 'access content'

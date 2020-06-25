@@ -1,0 +1,8 @@
+name: Examples Ankit
+type: module
+description: examples_ankit Module
+core: 8.x
+package: Custom
+configure: example_form.admin_settings
+dependencies:
+  - block
